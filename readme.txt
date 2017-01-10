@@ -4,5 +4,3 @@ hahha just try how to use git .
 now try to use git ,go go !
 it's time  to change git again.
 there is some pointsto edit.
-have a change,
-change the file again .
